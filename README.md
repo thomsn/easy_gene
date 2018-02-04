@@ -38,4 +38,4 @@ result:
 ```
 {'torso_length': 6.533470856616043, 'arm_length': 3.1127586555075375}
 ```
-[[https://github.com/thomsn/easy_gene/blob/master/Figure_1.png|alt=scores]]
+[[https://github.com/thomsn/easy_gene/blob/master/Figure_1.png?raw=true|alt=scores]]
