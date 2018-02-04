@@ -22,7 +22,7 @@ population = [
     {'arm_length': 9.0, 'torso_length': 5.0},
 ]
 
-mutation_rates = {'torso_length': 0.2, 'arm_length': 0.2}
+mutation_rates = {'arm_length': 0.2, 'torso_length': 0.2}
 num_parents = 2
 
 iterations = 100
@@ -36,7 +36,7 @@ print(population[0])
 ```
 result:
 ```
-{'torso_length': 6.533470856616043, 'arm_length': 3.1127586555075375}
+{'arm_length': 3.1127586555075375, 'torso_length': 6.533470856616043}
 ```
 max scores:
 ![alt text](https://github.com/thomsn/easy_gene/blob/master/Figure_1.png)
