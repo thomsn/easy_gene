@@ -22,7 +22,7 @@ population = [
     {'arm_length': 9.0, 'torso_length': 5.0},
 ]
 
-mutation_rates = {'arm_length': 0.2, 'torso_length': 0.2}
+mutation_rates = {'torso_length': 0.2, 'arm_length': 0.2}
 num_parents = 2
 
 iterations = 100
